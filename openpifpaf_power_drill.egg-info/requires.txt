@@ -1,0 +1,8 @@
+openpifpaf
+numpy
+torch
+matplotlib
+pandas
+
+[dev]
+black

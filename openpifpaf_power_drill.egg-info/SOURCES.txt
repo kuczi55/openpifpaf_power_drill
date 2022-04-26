@@ -1,0 +1,12 @@
+setup.py
+openpifpaf_power_drill/__init__.py
+openpifpaf_power_drill/apollo_to_coco.py
+openpifpaf_power_drill/constants.py
+openpifpaf_power_drill/metrics.py
+openpifpaf_power_drill/power_drill_kp.py
+openpifpaf_power_drill/transforms.py
+openpifpaf_power_drill.egg-info/PKG-INFO
+openpifpaf_power_drill.egg-info/SOURCES.txt
+openpifpaf_power_drill.egg-info/dependency_links.txt
+openpifpaf_power_drill.egg-info/requires.txt
+openpifpaf_power_drill.egg-info/top_level.txt
